@@ -3,8 +3,8 @@ module.exports = {
   manifestName: 'UnicornJockeys',
   manifestShortName: 'Podcast', // max 12 characters
   manifestStartUrl: '/',
-  manifestBackgroundColor: '#663399',
-  manifestThemeColor: '#663399',
+  manifestBackgroundColor: '#1da1f2',
+  manifestThemeColor: '#1da1f2',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/logo.png',
   pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
