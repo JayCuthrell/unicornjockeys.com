@@ -11,7 +11,7 @@ module.exports = {
   // social
   heading: 'Unicorn Jockeys Podcast',
   subHeading:
-    "Riders riding the ride and telling it like was and is...",
+    "Riders riding the ride and telling it like it was, is, and will be...",
   socialLinks: [
     {
       icon: 'fa-twitter',
