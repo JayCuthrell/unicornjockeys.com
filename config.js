@@ -1,37 +1,22 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Eventually', // <title>
-  manifestName: 'Eventually',
-  manifestShortName: 'Landing', // max 12 characters
+  siteTitle: 'Unicorn Jockeys Podcast', // <title>
+  manifestName: 'UnicornJockeys',
+  manifestShortName: 'Podcast', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
-  manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
+  manifestIcon: 'src/assets/img/logo.png',
+  pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Eventually',
+  heading: 'Unicorn Jockeys Podcast',
   subHeading:
-    "A simple template for telling the world when you'll launch your next big thing.",
+    "Riders riding the ride and telling it like was and is...",
   socialLinks: [
-    {
-      icon: 'fa-github',
-      name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
-    {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
-    },
-    {
-      icon: 'fa-envelope-o',
-      name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'https://twitter.com/unicornjockeys',
     },
   ],
 };
